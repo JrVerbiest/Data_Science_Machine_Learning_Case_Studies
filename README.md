@@ -44,9 +44,16 @@ A list of small case studies to educate myself in **data science** (databases), 
   MNIST the "Hello World" of deep learning. In this [notebook](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies/blob/master/MNIST/MNIST.ipynb) grayscale images of handwritten digits (image size: 28 x 28 pixels) are classsified into 10 categories (0 through 9), in Keras using dense layers and 2D convnets. 
   
 
+<br>
+
+## References
+
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron
+- Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, Sebastian Raschka and Vahid Mirjalili
+- Deep Learning with Python, Francois Chollet
 
 <br>
 
 ---
 
-*Last update: 15 September 2019*
+*Last update: 22 September 2019*
