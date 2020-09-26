@@ -46,18 +46,6 @@ A list of small case studies to educate myself in **data science** (databases), 
 
 <br>
 
-
-
-## Machine learning on microcontrollers (tinyML)
-
-- ***Hello world***
-
-  The hello world example from the book: "TinyML, machine learning with TensorFlow Lite on Arduino and Ultra-Low-Power microcontrollers" with personal notes.
-
-  - The notebook & arduino sketch are coming soon.
-
-<br>
-
 ## References
 
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron
@@ -68,4 +56,4 @@ A list of small case studies to educate myself in **data science** (databases), 
 
 ---
 
-*Last update: 29 july 2020*
+*Last update: 26 September 2020*
