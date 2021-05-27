@@ -41,7 +41,7 @@ A list of small case studies to educate myself in **data science** (databases), 
 
 - ***MNIST***
   
-  MNIST the "Hello World" of deep learning. In this [notebook](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies/blob/master/MNIST/MNIST.ipynb) grayscale images of handwritten digits (image size: 28 x 28 pixels) are classsified into 10 categories (0 through 9), in Keras using dense layers and 2D convnets. 
+  MNIST the "Hello World" of deep learning. In this [notebook](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies/blob/master/MNIST/MNIST.ipynb) grayscale images of handwritten digits (image size: 28 x 28 pixels) are classsified into 10 categories (0 through 9), in Keras using dense layers and 2D convnets.
   
 
 <br>
@@ -56,4 +56,4 @@ A list of small case studies to educate myself in **data science** (databases), 
 
 ---
 
-*Last update: 26 September 2020*
+*Last update: 27 May 2021*
