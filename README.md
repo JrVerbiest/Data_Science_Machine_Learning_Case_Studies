@@ -13,11 +13,6 @@ A list of small case studies to educate myself in **data science** (databases), 
   - Download the dataset: [notebook](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies/blob/master/VOICED%20Database/getDatabase.ipynb)
   - Create the dataset: [notebook](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies/blob/master/VOICED%20Database/createDataset.ipynb), dataset is stored in  *dataset_InfoTxtFile.xlsx*
 
-- ***The Chinook Database (SQL)*** 
-
-  In this [notebook](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies/blob/master/The%20Chinook%20Database/SQL%20-%20The%20Chinook%20Database.ipynb) we play around with an example database using SQL and Python.
-  
-
 <br>
 
 ## Machine Learning
@@ -56,4 +51,3 @@ A list of small case studies to educate myself in **data science** (databases), 
 
 ---
 
-*Last update: 27 May 2021*
